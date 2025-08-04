@@ -1,59 +1,198 @@
-<h1 align="center">Hi 👋, I'm Niharika Hasija</h1>
-<h3 align="center">Aspiring SDE | MERN Stack Developer | Open Source Enthusiast</h3>
 
----
+<div align="center">
+  
+# 👋 Hi, I'm Niharika Hasija
 
-🌱 I’m currently working on:  
-- Full-stack food delivery app with Stripe payments  
-- Building my animated portfolio with chatbot integration  
-- Contributing to open-source via **GSSOC '25**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Software+Engineer(SDE);MERN+Stack+Developer;Open+Source+Enthusiast;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
 
-📫 Reach me at:  
-[![Gmail](https://img.shields.io/badge/-niharikahasija975@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:niharikahasija975@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/niharika-hasija-679137249)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/niharika1112)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+</div>
 
-🛠️ **Tech Stack**
+## 🚀 About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+```javascript
+const niharika = {
+    role: "Aspiring Software Development Engineer",
+    location: "India 🇮🇳",
+    currentFocus: ["Full Stack Development", "Open Source", "System Design"],
+    techStack: {
+        frontend: ["React", "JavaScript", "Tailwind CSS", "Framer Motion"],
+        backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
+        languages: ["Java", "JavaScript", "Python"],
+        tools: ["Git", "VS Code", "Postman", "Figma"],
+        learning: ["OpenAI API", "System Design", "Advanced DSA"]
+    },
+    currentProjects: [
+        "🍕 Food delivery app with Stripe integration",
+        "💼 Animated portfolio with AI chatbot",
+        "🤝 Contributing to GSSOC '25"
+    ],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-📌 **Pinned Projects**
+## 🔥 Current Mission
 
-- 🧾 [QR Code Generator](https://niharika1112.github.io/QR_generator/)  
-  *Built with HTML, CSS, JavaScript – generates QR codes instantly*
+<table>
+<tr>
+<td width="50%">
 
-- ✅ [To-Do List App](https://github.com/niharika1112)  
-  *React-based app for managing daily tasks with clean UI*
+### 🎯 What I'm Building
+- **🍽️ Full-Stack Food Delivery Platform**
+  - MERN Stack Architecture
+  - Stripe Payment Integration  
+  - Admin Dashboard & Analytics
+  - Real-time Order Tracking
 
-- 🍽️ Food Delivery App *(In Progress)*  
-  *MERN stack app with secure Stripe payments and admin dashboard*
+- **💼 Interactive Portfolio Website**
+  - Framer Motion Animations
+  - OpenAI Chatbot Integration
+  - Responsive Design
+  - Performance Optimized
 
----
+</td>
+<td width="50%">
 
-💡 **Currently Learning**  
-- Framer Motion for UI animation  
-- OpenAI API for chatbot integration  
-- Advanced DSA + System Design
+### 🌱 Learning Journey
+- **Advanced React Patterns**
+- **System Design Fundamentals** 
+- **Data Structures & Algorithms**
+- **API Design & Architecture**
+- **Cloud Deployment (AWS)**
+- **Performance Optimization**
 
----
+### 🤝 Open Source
+- **GSSOC '25 Contributor**
+- Actively seeking collaboration opportunities
 
-📊 **GitHub Stats**
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niharika1112&show_icons=true&theme=radical" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=niharika1112&theme=radical" alt="streak" width="48%" />
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
----
+## 🛠️ Tech Arsenal
 
-✨ Let's connect and build together!
+<div align="center">
+
+### Frontend Magic ✨
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Power ⚡
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Tools & Platforms 🔧
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧾 [QR Code Generator](https://niharika1112.github.io/QR_generator/)
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+✨ **Features:**
+- Instant QR code generation
+- Clean, responsive UI
+- Download functionality
+- Live deployment
+
+🔗 **[Live Demo](https://niharika1112.github.io/QR_generator/)** | **[Source Code](https://github.com/niharika1112/QR_generator)**
+
+</td>
+<td width="50%">
+
+### ✅ [Smart To-Do App](https://github.com/niharika1112)
+**Tech Stack:** `React` `Local Storage` `CSS3`
+
+✨ **Features:**
+- Task management system
+- Persistent data storage
+- Intuitive user interface  
+- Category organization
+
+🔗 **[Source Code](https://github.com/niharika1112)** 
+
+</td>
+</tr>
+</table>
+
+### 🍽️ Food Delivery Platform (In Development)
+**Tech Stack:** `MERN Stack` `Stripe API` `JWT` `Cloudinary`
+
+🚀 **Highlights:**
+- Secure payment processing with Stripe
+- Admin dashboard with analytics
+- Real-time order tracking
+- Image upload & optimization
+- RESTful API architecture
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=niharika1112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=niharika1112&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharika1112&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niharika1112&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharikahasija975@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niharika-hasija-679137249)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niharika1112)
+
+### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<img src="https://komarev.com/ghpvc/?username=niharika1112&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+</div>
