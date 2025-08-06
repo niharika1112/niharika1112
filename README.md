@@ -15,17 +15,17 @@
 const niharika = {
     role: "Aspiring Software Development Engineer",
     location: "India 🇮🇳",
-    currentFocus: ["Full Stack Development", "Open Source", "System Design"],
+    currentFocus: ["MERN STACK Development", "Open Source", "DSA"],
     techStack: {
-        frontend: ["React", "JavaScript", "Tailwind CSS", "Framer Motion"],
+        frontend: ["React", "JavaScript", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
-        languages: ["Java", "JavaScript", "Python"],
-        tools: ["Git", "VS Code", "Postman", "Figma"],
-        learning: ["OpenAI API", "System Design", "Advanced DSA"]
+        languages: ["Java", "JavaScript"],
+        tools: ["Git", "VS Code", "Postman", "Vercel","MongoDB Compass","MongoDB Atlas"],
+        learning: ["OpenAI API", "Advanced DSA"]
     },
     currentProjects: [
         "🍕 Food delivery app with Stripe integration",
-        "💼 Animated portfolio with AI chatbot",
+        "💼  T0-d0 App",
         "🤝 Contributing to GSSOC '25"
     ],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
@@ -49,21 +49,13 @@ const niharika = {
   - Admin Dashboard & Analytics
   - Real-time Order Tracking
 
-- **💼 Interactive Portfolio Website**
-  - Framer Motion Animations
-  - OpenAI Chatbot Integration
-  - Responsive Design
-  - Performance Optimized
-
 </td>
 <td width="50%">
 
 ### 🌱 Learning Journey
 - **Advanced React Patterns**
-- **System Design Fundamentals** 
 - **Data Structures & Algorithms**
 - **API Design & Architecture**
-- **Cloud Deployment (AWS)**
 - **Performance Optimization**
 
 ### 🤝 Open Source
@@ -129,7 +121,7 @@ const niharika = {
 </td>
 <td width="50%">
 
-### ✅ [Smart To-Do App](https://github.com/niharika1112)
+### ✅ [Smart To-Do App]([https://github.com/niharika1112/To-do-APP])
 **Tech Stack:** `React` `Local Storage` `CSS3`
 
 ✨ **Features:**
@@ -138,7 +130,7 @@ const niharika = {
 - Intuitive user interface  
 - Category organization
 
-🔗 **[Source Code](https://github.com/niharika1112)** 
+🔗 **[Live Demo](https://to-do-6zqjmbvf0-niharikas-projects-6e801120.vercel.app/)** |🔗 **[Source Code](https://github.com/niharika1112/To-do-APP)** 
 
 </td>
 </tr>
