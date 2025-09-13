@@ -1,9 +1,8 @@
-
 <div align="center">
   
 # 👋 Hi, I'm Niharika Hasija
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Software+Engineer(SDE);MERN+Stack+Developer;Open+Source+Enthusiast;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Software+Engineer(SDE);MERN+Stack+Developer;AI+Integration+Specialist;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -15,17 +14,19 @@
 const niharika = {
     role: "Aspiring Software Development Engineer",
     location: "India 🇮🇳",
-    currentFocus: ["MERN STACK Development", "Open Source", "DSA"],
+    currentFocus: ["MERN STACK Development", "AI Integration", "Open Source", "DSA"],
     techStack: {
         frontend: ["React", "JavaScript", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
+        ai_integration: ["Gemini AI", "Web Speech API", "Voice Processing"],
         languages: ["Java", "JavaScript"],
-        tools: ["Git", "VS Code", "Postman", "Vercel","MongoDB Compass","MongoDB Atlas"],
-        learning: ["OpenAI API", "Advanced DSA"]
+        tools: ["Git", "VS Code", "Postman", "Vercel", "Render", "MongoDB Compass","MongoDB Atlas"],
+        learning: ["Advanced AI APIs", "Advanced DSA", "Microservices"]
     },
     currentProjects: [
+        "🤖 AI Virtual Assistant with voice capabilities",
         "🍕 Food delivery app with Stripe integration",
-        "💼  T0-d0 App",
+        "💼 Smart To-Do App",
         "🤝 Contributing to GSSOC '25"
     ],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
@@ -49,10 +50,18 @@ const niharika = {
   - Admin Dashboard & Analytics
   - Real-time Order Tracking
 
+### 🏆 Recently Completed
+- **🤖 AI Virtual Assistant Platform** ✅
+  - Voice Input/Output Capabilities
+  - Gemini AI Integration
+  - Full Authentication System
+  - Live Production Deployment
+
 </td>
 <td width="50%">
 
 ### 🌱 Learning Journey
+- **AI & Machine Learning Integration**
 - **Advanced React Patterns**
 - **Data Structures & Algorithms**
 - **API Design & Architecture**
@@ -87,6 +96,11 @@ const niharika = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### AI & Cloud Services 🧠
+![Google AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 ### Tools & Platforms 🔧
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -102,6 +116,28 @@ const niharika = {
 ## 🏆 Featured Projects
 
 <div align="center">
+
+### 🤖 [AI Virtual Assistant](https://one-virtual-assistant.onrender.com/) ⭐ **FLAGSHIP PROJECT**
+**Tech Stack:** `MERN Stack` `Gemini AI` `Web Speech API` `JWT` `Cloudinary`
+
+🚀 **Advanced Features:**
+- 🎤 Voice Input & Output (J.A.R.V.I.S-like experience)
+- 🧠 Smart AI conversations powered by Gemini AI
+- 🔐 Secure authentication system with JWT
+- 🖼️ Custom assistant personalization with image uploads
+- 📱 Fully responsive design
+- 🌍 Production-ready deployment on Render
+
+🏆 **Why It Stands Out:**
+- **Real-world AI integration** - Not just a CRUD app!
+- **Advanced voice processing** using Web Speech API
+- **Complex authentication flow** with secure JWT implementation
+- **Professional deployment** with environment configurations
+- **Modern UI/UX** with seamless user experience
+
+🔗 **[Live Demo](https://one-virtual-assistant.onrender.com/)** | **[Source Code](https://github.com/niharika1112/virtual-assistant)**
+
+---
 
 <table>
 <tr>
@@ -121,7 +157,7 @@ const niharika = {
 </td>
 <td width="50%">
 
-### ✅ [Smart To-Do App]([https://github.com/niharika1112/To-do-APP])
+### ✅ [Smart To-Do App](https://to-do-6zqjmbvf0-niharikas-projects-6e801120.vercel.app/)
 **Tech Stack:** `React` `Local Storage` `CSS3`
 
 ✨ **Features:**
@@ -130,7 +166,7 @@ const niharika = {
 - Intuitive user interface  
 - Category organization
 
-🔗 **[Live Demo](https://to-do-6zqjmbvf0-niharikas-projects-6e801120.vercel.app/)** |🔗 **[Source Code](https://github.com/niharika1112/To-do-APP)** 
+🔗 **[Live Demo](https://to-do-6zqjmbvf0-niharikas-projects-6e801120.vercel.app/)** | **[Source Code](https://github.com/niharika1112/To-do-APP)** 
 
 </td>
 </tr>
@@ -145,6 +181,21 @@ const niharika = {
 - Real-time order tracking
 - Image upload & optimization
 - RESTful API architecture
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌟 What Makes My Projects Special
+
+<div align="center">
+
+| 🎯 **Problem-Solving** | 🚀 **Innovation** | 💼 **Production-Ready** |
+|:---:|:---:|:---:|
+| Real-world applications solving actual problems | AI integration & voice processing | Proper deployment & security |
+| User-centric design approach | Modern tech stack implementation | Professional code organization |
 
 </div>
 
@@ -179,7 +230,7 @@ const niharika = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niharika-hasija-679137249)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niharika1112)
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💭 "The best way to predict the future is to create it." - Alan Kay
 
 <img src="https://komarev.com/ghpvc/?username=niharika1112&style=for-the-badge&color=blue" alt="Profile Views"/>
 
