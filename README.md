@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Niharika Hasija
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Software+Engineer(SDE);MERN+Stack+Developer;AI+Integration+Specialist;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer(SDE);Full+Stack+Developer;AI+Integration+Specialist;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -12,7 +12,7 @@
 
 ```javascript
 const niharika = {
-    role: "Aspiring Software Development Engineer",
+    role: "Software Development Engineer",
     location: "India 🇮🇳",
     currentFocus: ["MERN STACK Development", "AI Integration", "Open Source", "DSA"],
     techStack: {
@@ -24,10 +24,8 @@ const niharika = {
         learning: ["Advanced AI APIs", "Advanced DSA", "Microservices"]
     },
     currentProjects: [
-        "🤖 AI Virtual Assistant with voice capabilities",
-        "🍕 Food delivery app with Stripe integration",
-        "💼 Smart To-Do App",
-        "🤝 Contributing to GSSOC '25"
+        " AI Virtual Assistant with voice capabilities",
+        " E-commerce platform"
     ],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
@@ -43,12 +41,6 @@ const niharika = {
 <tr>
 <td width="50%">
 
-### 🎯 What I'm Building
-- **🍽️ Full-Stack Food Delivery Platform**
-  - MERN Stack Architecture
-  - Stripe Payment Integration  
-  - Admin Dashboard & Analytics
-  - Real-time Order Tracking
 
 ### 🏆 Recently Completed
 - **🤖 AI Virtual Assistant Platform** ✅
@@ -128,6 +120,8 @@ const niharika = {
 - 📱 Fully responsive design
 - 🌍 Production-ready deployment on Render
 
+  
+
 🏆 **Why It Stands Out:**
 - **Real-world AI integration** - Not just a CRUD app!
 - **Advanced voice processing** using Web Speech API
@@ -172,15 +166,6 @@ const niharika = {
 </tr>
 </table>
 
-### 🍽️ Food Delivery Platform (In Development)
-**Tech Stack:** `MERN Stack` `Stripe API` `JWT` `Cloudinary`
-
-🚀 **Highlights:**
-- Secure payment processing with Stripe
-- Admin dashboard with analytics
-- Real-time order tracking
-- Image upload & optimization
-- RESTful API architecture
 
 </div>
 
